@@ -7,7 +7,9 @@ This project solve quadratic equations
 This project may be import in interactive python shell and it may be launch like this:
 
 from quadratic_equation import get_roots
+
 get_roots(a,b,c)
+
 where a, b, c - the equation coefficients
 
 # How to Launch Tests
